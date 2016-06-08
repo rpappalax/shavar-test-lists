@@ -1,3 +1,5 @@
-# Test lists for shavar server
+# shavar-test-lists
+Test lists for shavar server
 
-These lists are intended for testing purposes only. They may break or be removed at any time!
+These lists are intended for consumption for dev/stage instances only!
+
